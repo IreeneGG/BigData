@@ -1,0 +1,1473 @@
+{
+    "jugadoras_iniciaron_tras_2020": [
+        {
+            "_id": "6748a6f5c83b060c53cf50f6",
+            "player": {
+                "name": "Melchie Dumornay",
+                "rank": 222,
+                "age": 21,
+                "position": "ST",
+                "team": "OL",
+                "nation": "Haiti",
+                "league": "Arkema PL",
+                "start_year": 2021.0
+            },
+            "physical": {
+                "height": 16053,
+                "weight": 51112
+            },
+            "attributes": {
+                "overall": 83,
+                "speed": {
+                    "acceleration": 90,
+                    "sprint_speed": 93,
+                    "agility": 89
+                },
+                "shooting": {
+                    "finishing": 86,
+                    "shot_power": 86,
+                    "long_shots": 80,
+                    "volleys": 74,
+                    "penalties": 69
+                },
+                "passing": {
+                    "short_passing": 83,
+                    "long_passing": 73,
+                    "vision": 79,
+                    "crossing": 70,
+                    "free_kick_accuracy": 74,
+                    "curve": 86
+                },
+                "dribbling": {
+                    "dribbling": 84,
+                    "balance": 85,
+                    "ball_control": 87,
+                    "composure": 83
+                },
+                "defending": {
+                    "defense": 59,
+                    "interceptions": 59,
+                    "heading_accuracy": 75,
+                    "defensive_awareness": 52,
+                    "standing_tackle": 64,
+                    "sliding_tackle": 53
+                },
+                "physicality": {
+                    "jumping": 86,
+                    "stamina": 73,
+                    "strength": 71,
+                    "aggression": 53
+                },
+                "weak_foot": 3,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Chip Shot+",
+                "Finesse Shot",
+                "Flair",
+                "Incisive Pass",
+                "Quick Step",
+                "Technical",
+                "Trivela"
+            ]
+        }
+    ],
+    "jugadoras_manchester": [
+        {
+            "_id": "6748a6f5c83b060c53cf50a9",
+            "player": {
+                "name": "Khadija Shaw",
+                "rank": 71,
+                "age": 27,
+                "position": "ST",
+                "team": "Manchester City",
+                "nation": "Jamaica",
+                "league": "Barclays WSL",
+                "start_year": 2015.0
+            },
+            "physical": {
+                "height": 180511,
+                "weight": 70154
+            },
+            "attributes": {
+                "overall": 86,
+                "speed": {
+                    "acceleration": 70,
+                    "sprint_speed": 69,
+                    "agility": 55
+                },
+                "shooting": {
+                    "finishing": 90,
+                    "shot_power": 88,
+                    "long_shots": 80,
+                    "volleys": 77,
+                    "penalties": 75
+                },
+                "passing": {
+                    "short_passing": 78,
+                    "long_passing": 68,
+                    "vision": 79,
+                    "crossing": 59,
+                    "free_kick_accuracy": 55,
+                    "curve": 58
+                },
+                "dribbling": {
+                    "dribbling": 79,
+                    "balance": 42,
+                    "ball_control": 86,
+                    "composure": 86
+                },
+                "defending": {
+                    "defense": 32,
+                    "interceptions": 25,
+                    "heading_accuracy": 91,
+                    "defensive_awareness": 23,
+                    "standing_tackle": 30,
+                    "sliding_tackle": 20
+                },
+                "physicality": {
+                    "jumping": 92,
+                    "stamina": 81,
+                    "strength": 92,
+                    "aggression": 71
+                },
+                "weak_foot": 4,
+                "skill_moves": 3,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Aerial+",
+                "Press Proven"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50ac",
+            "player": {
+                "name": "Lauren Hemp",
+                "rank": 80,
+                "age": 24,
+                "position": "LW",
+                "team": "Manchester City",
+                "nation": "England",
+                "league": "Barclays WSL",
+                "start_year": 2018.0
+            },
+            "physical": {
+                "height": 16455,
+                "weight": 59130
+            },
+            "attributes": {
+                "overall": 86,
+                "speed": {
+                    "acceleration": 91,
+                    "sprint_speed": 90,
+                    "agility": 90
+                },
+                "shooting": {
+                    "finishing": 76,
+                    "shot_power": 83,
+                    "long_shots": 70,
+                    "volleys": 69,
+                    "penalties": 68
+                },
+                "passing": {
+                    "short_passing": 81,
+                    "long_passing": 79,
+                    "vision": 83,
+                    "crossing": 92,
+                    "free_kick_accuracy": 80,
+                    "curve": 86
+                },
+                "dribbling": {
+                    "dribbling": 87,
+                    "balance": 91,
+                    "ball_control": 88,
+                    "composure": 70
+                },
+                "defending": {
+                    "defense": 63,
+                    "interceptions": 69,
+                    "heading_accuracy": 63,
+                    "defensive_awareness": 56,
+                    "standing_tackle": 69,
+                    "sliding_tackle": 57
+                },
+                "physicality": {
+                    "jumping": 78,
+                    "stamina": 88,
+                    "strength": 63,
+                    "aggression": 62
+                },
+                "weak_foot": 3,
+                "skill_moves": 4,
+                "preferred_foot": "Left"
+            },
+            "play_style": [
+                "Finesse Shot",
+                "First Touch",
+                "Quick Step",
+                "Rapid",
+                "Trivela",
+                "Whipped Pass"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50b1",
+            "player": {
+                "name": "Chloe Kelly",
+                "rank": 93,
+                "age": 26,
+                "position": "RW",
+                "team": "Manchester City",
+                "nation": "England",
+                "league": "Barclays WSL",
+                "start_year": 2016.0
+            },
+            "physical": {
+                "height": 16856,
+                "weight": 58128
+            },
+            "attributes": {
+                "overall": 86,
+                "speed": {
+                    "acceleration": 89,
+                    "sprint_speed": 88,
+                    "agility": 85
+                },
+                "shooting": {
+                    "finishing": 76,
+                    "shot_power": 88,
+                    "long_shots": 79,
+                    "volleys": 71,
+                    "penalties": 65
+                },
+                "passing": {
+                    "short_passing": 84,
+                    "long_passing": 84,
+                    "vision": 86,
+                    "crossing": 89,
+                    "free_kick_accuracy": 81,
+                    "curve": 86
+                },
+                "dribbling": {
+                    "dribbling": 85,
+                    "balance": 76,
+                    "ball_control": 86,
+                    "composure": 81
+                },
+                "defending": {
+                    "defense": 43,
+                    "interceptions": 50,
+                    "heading_accuracy": 50,
+                    "defensive_awareness": 44,
+                    "standing_tackle": 38,
+                    "sliding_tackle": 38
+                },
+                "physicality": {
+                    "jumping": 77,
+                    "stamina": 77,
+                    "strength": 75,
+                    "aggression": 35
+                },
+                "weak_foot": 4,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Dead Ball",
+                "Flair",
+                "Quick Step",
+                "Technical",
+                "Trickster",
+                "Whipped Pass"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50b4",
+            "player": {
+                "name": "Jill Roord",
+                "rank": 98,
+                "age": 27,
+                "position": "CAM",
+                "team": "Manchester City",
+                "nation": "Holland",
+                "league": "Barclays WSL",
+                "start_year": 2015.0
+            },
+            "physical": {
+                "height": 17559,
+                "weight": 63139
+            },
+            "attributes": {
+                "overall": 86,
+                "speed": {
+                    "acceleration": 78,
+                    "sprint_speed": 72,
+                    "agility": 80
+                },
+                "shooting": {
+                    "finishing": 82,
+                    "shot_power": 86,
+                    "long_shots": 90,
+                    "volleys": 80,
+                    "penalties": 74
+                },
+                "passing": {
+                    "short_passing": 87,
+                    "long_passing": 82,
+                    "vision": 87,
+                    "crossing": 78,
+                    "free_kick_accuracy": 80,
+                    "curve": 81
+                },
+                "dribbling": {
+                    "dribbling": 85,
+                    "balance": 75,
+                    "ball_control": 87,
+                    "composure": 82
+                },
+                "defending": {
+                    "defense": 52,
+                    "interceptions": 57,
+                    "heading_accuracy": 59,
+                    "defensive_awareness": 59,
+                    "standing_tackle": 46,
+                    "sliding_tackle": 34
+                },
+                "physicality": {
+                    "jumping": 80,
+                    "stamina": 76,
+                    "strength": 83,
+                    "aggression": 44
+                },
+                "weak_foot": 4,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "First Touch",
+                "Technical"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50c3",
+            "player": {
+                "name": "Vivianne Miedema",
+                "rank": 101,
+                "age": 28,
+                "position": "ST",
+                "team": "Manchester City",
+                "nation": "Holland",
+                "league": "Barclays WSL",
+                "start_year": 2014.0
+            },
+            "physical": {
+                "height": 178510,
+                "weight": 65143
+            },
+            "attributes": {
+                "overall": 85,
+                "speed": {
+                    "acceleration": 84,
+                    "sprint_speed": 80,
+                    "agility": 80
+                },
+                "shooting": {
+                    "finishing": 85,
+                    "shot_power": 86,
+                    "long_shots": 84,
+                    "volleys": 83,
+                    "penalties": 75
+                },
+                "passing": {
+                    "short_passing": 79,
+                    "long_passing": 56,
+                    "vision": 69,
+                    "crossing": 64,
+                    "free_kick_accuracy": 73,
+                    "curve": 76
+                },
+                "dribbling": {
+                    "dribbling": 85,
+                    "balance": 73,
+                    "ball_control": 87,
+                    "composure": 90
+                },
+                "defending": {
+                    "defense": 32,
+                    "interceptions": 27,
+                    "heading_accuracy": 82,
+                    "defensive_awareness": 22,
+                    "standing_tackle": 30,
+                    "sliding_tackle": 23
+                },
+                "physicality": {
+                    "jumping": 92,
+                    "stamina": 83,
+                    "strength": 82,
+                    "aggression": 70
+                },
+                "weak_foot": 4,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Finesse Shot",
+                "Technical"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50cd",
+            "player": {
+                "name": "Hannah Blundell",
+                "rank": 149,
+                "age": 30,
+                "position": "LB",
+                "team": "Manchester Utd",
+                "nation": "England",
+                "league": "Barclays WSL",
+                "start_year": 2012.0
+            },
+            "physical": {
+                "height": 16354,
+                "weight": 54119
+            },
+            "attributes": {
+                "overall": 84,
+                "speed": {
+                    "acceleration": 69,
+                    "sprint_speed": 71,
+                    "agility": 69
+                },
+                "shooting": {
+                    "finishing": 56,
+                    "shot_power": 61,
+                    "long_shots": 43,
+                    "volleys": 43,
+                    "penalties": 52
+                },
+                "passing": {
+                    "short_passing": 84,
+                    "long_passing": 76,
+                    "vision": 48,
+                    "crossing": 79,
+                    "free_kick_accuracy": 56,
+                    "curve": 63
+                },
+                "dribbling": {
+                    "dribbling": 67,
+                    "balance": 75,
+                    "ball_control": 80,
+                    "composure": 76
+                },
+                "defending": {
+                    "defense": 85,
+                    "interceptions": 86,
+                    "heading_accuracy": 75,
+                    "defensive_awareness": 87,
+                    "standing_tackle": 86,
+                    "sliding_tackle": 83
+                },
+                "physicality": {
+                    "jumping": 75,
+                    "stamina": 82,
+                    "strength": 65,
+                    "aggression": 77
+                },
+                "weak_foot": 4,
+                "skill_moves": 2,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Anticipate",
+                "Bruiser"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50db",
+            "player": {
+                "name": "Alex Greenwood",
+                "rank": 149,
+                "age": 31,
+                "position": "CB",
+                "team": "Manchester City",
+                "nation": "England",
+                "league": "Barclays WSL",
+                "start_year": 2011.0
+            },
+            "physical": {
+                "height": 16756,
+                "weight": 62137
+            },
+            "attributes": {
+                "overall": 84,
+                "speed": {
+                    "acceleration": 70,
+                    "sprint_speed": 72,
+                    "agility": 65
+                },
+                "shooting": {
+                    "finishing": 62,
+                    "shot_power": 78,
+                    "long_shots": 65,
+                    "volleys": 43,
+                    "penalties": 85
+                },
+                "passing": {
+                    "short_passing": 87,
+                    "long_passing": 89,
+                    "vision": 60,
+                    "crossing": 79,
+                    "free_kick_accuracy": 82,
+                    "curve": 80
+                },
+                "dribbling": {
+                    "dribbling": 67,
+                    "balance": 70,
+                    "ball_control": 84,
+                    "composure": 85
+                },
+                "defending": {
+                    "defense": 85,
+                    "interceptions": 87,
+                    "heading_accuracy": 83,
+                    "defensive_awareness": 86,
+                    "standing_tackle": 84,
+                    "sliding_tackle": 80
+                },
+                "physicality": {
+                    "jumping": 85,
+                    "stamina": 86,
+                    "strength": 76,
+                    "aggression": 90
+                },
+                "weak_foot": 3,
+                "skill_moves": 2,
+                "preferred_foot": "Left"
+            },
+            "play_style": [
+                "Block+",
+                "Aerial",
+                "Jockey",
+                "Long Ball Pass"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50dd",
+            "player": {
+                "name": "Yui Hasegawa",
+                "rank": 149,
+                "age": 27,
+                "position": "CDM",
+                "team": "Manchester City",
+                "nation": "Japan",
+                "league": "Barclays WSL",
+                "start_year": 2015.0
+            },
+            "physical": {
+                "height": 15651,
+                "weight": 48106
+            },
+            "attributes": {
+                "overall": 84,
+                "speed": {
+                    "acceleration": 76,
+                    "sprint_speed": 79,
+                    "agility": 76
+                },
+                "shooting": {
+                    "finishing": 67,
+                    "shot_power": 73,
+                    "long_shots": 82,
+                    "volleys": 68,
+                    "penalties": 63
+                },
+                "passing": {
+                    "short_passing": 89,
+                    "long_passing": 89,
+                    "vision": 87,
+                    "crossing": 76,
+                    "free_kick_accuracy": 71,
+                    "curve": 68
+                },
+                "dribbling": {
+                    "dribbling": 88,
+                    "balance": 88,
+                    "ball_control": 87,
+                    "composure": 78
+                },
+                "defending": {
+                    "defense": 79,
+                    "interceptions": 85,
+                    "heading_accuracy": 48,
+                    "defensive_awareness": 84,
+                    "standing_tackle": 82,
+                    "sliding_tackle": 73
+                },
+                "physicality": {
+                    "jumping": 61,
+                    "stamina": 77,
+                    "strength": 51,
+                    "aggression": 76
+                },
+                "weak_foot": 4,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Intercept",
+                "Press Proven",
+                "Tiki Taka",
+                "Trivela"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50e0",
+            "player": {
+                "name": "Dominique Janssen",
+                "rank": 149,
+                "age": 29,
+                "position": "CB",
+                "team": "Manchester Utd",
+                "nation": "Holland",
+                "league": "Barclays WSL",
+                "start_year": 2013.0
+            },
+            "physical": {
+                "height": 17459,
+                "weight": 63139
+            },
+            "attributes": {
+                "overall": 84,
+                "speed": {
+                    "acceleration": 75,
+                    "sprint_speed": 81,
+                    "agility": 71
+                },
+                "shooting": {
+                    "finishing": 54,
+                    "shot_power": 75,
+                    "long_shots": 54,
+                    "volleys": 47,
+                    "penalties": 66
+                },
+                "passing": {
+                    "short_passing": 84,
+                    "long_passing": 76,
+                    "vision": 70,
+                    "crossing": 64,
+                    "free_kick_accuracy": 74,
+                    "curve": 74
+                },
+                "dribbling": {
+                    "dribbling": 72,
+                    "balance": 75,
+                    "ball_control": 79,
+                    "composure": 78
+                },
+                "defending": {
+                    "defense": 83,
+                    "interceptions": 82,
+                    "heading_accuracy": 84,
+                    "defensive_awareness": 83,
+                    "standing_tackle": 83,
+                    "sliding_tackle": 88
+                },
+                "physicality": {
+                    "jumping": 90,
+                    "stamina": 80,
+                    "strength": 83,
+                    "aggression": 85
+                },
+                "weak_foot": 5,
+                "skill_moves": 2,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Aerial",
+                "Block",
+                "Long Ball Pass",
+                "Quick Step"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50e8",
+            "player": {
+                "name": "Ella Toone",
+                "rank": 149,
+                "age": 25,
+                "position": "CAM",
+                "team": "Manchester Utd",
+                "nation": "England",
+                "league": "Barclays WSL",
+                "start_year": 2017.0
+            },
+            "physical": {
+                "height": 16354,
+                "weight": 57126
+            },
+            "attributes": {
+                "overall": 84,
+                "speed": {
+                    "acceleration": 83,
+                    "sprint_speed": 80,
+                    "agility": 67
+                },
+                "shooting": {
+                    "finishing": 80,
+                    "shot_power": 83,
+                    "long_shots": 78,
+                    "volleys": 75,
+                    "penalties": 59
+                },
+                "passing": {
+                    "short_passing": 83,
+                    "long_passing": 70,
+                    "vision": 86,
+                    "crossing": 76,
+                    "free_kick_accuracy": 56,
+                    "curve": 70
+                },
+                "dribbling": {
+                    "dribbling": 92,
+                    "balance": 84,
+                    "ball_control": 85,
+                    "composure": 82
+                },
+                "defending": {
+                    "defense": 51,
+                    "interceptions": 45,
+                    "heading_accuracy": 69,
+                    "defensive_awareness": 41,
+                    "standing_tackle": 57,
+                    "sliding_tackle": 56
+                },
+                "physicality": {
+                    "jumping": 78,
+                    "stamina": 84,
+                    "strength": 64,
+                    "aggression": 38
+                },
+                "weak_foot": 3,
+                "skill_moves": 5,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Flair+",
+                "Chip Shot",
+                "Incisive Pass",
+                "Technical",
+                "Trickster",
+                "Trivela"
+            ]
+        }
+    ],
+    "jugadoras_de_spain": [
+        {
+            "_id": "6748a6f5c83b060c53cf5093",
+            "player": {
+                "name": "AITANA BONMAT\u00cd",
+                "rank": 3,
+                "age": 26,
+                "position": "CM",
+                "team": "FC Barcelona",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2016.0
+            },
+            "physical": {
+                "height": 16254,
+                "weight": 53117
+            },
+            "attributes": {
+                "overall": 91,
+                "speed": {
+                    "acceleration": 82,
+                    "sprint_speed": 80,
+                    "agility": 93
+                },
+                "shooting": {
+                    "finishing": 91,
+                    "shot_power": 79,
+                    "long_shots": 89,
+                    "volleys": 70,
+                    "penalties": 70
+                },
+                "passing": {
+                    "short_passing": 91,
+                    "long_passing": 90,
+                    "vision": 90,
+                    "crossing": 74,
+                    "free_kick_accuracy": 77,
+                    "curve": 78
+                },
+                "dribbling": {
+                    "dribbling": 92,
+                    "balance": 86,
+                    "ball_control": 91,
+                    "composure": 85
+                },
+                "defending": {
+                    "defense": 77,
+                    "interceptions": 88,
+                    "heading_accuracy": 54,
+                    "defensive_awareness": 75,
+                    "standing_tackle": 81,
+                    "sliding_tackle": 67
+                },
+                "physicality": {
+                    "jumping": 75,
+                    "stamina": 82,
+                    "strength": 75,
+                    "aggression": 64
+                },
+                "weak_foot": 5,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Technical+",
+                "Finesse Shot",
+                "First Touch",
+                "Incisive Pass",
+                "Pinged Pass",
+                "Relentless",
+                "Tiki Taka"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf5094",
+            "player": {
+                "name": "ALEXIA PUTELLAS",
+                "rank": 6,
+                "age": 30,
+                "position": "CM",
+                "team": "FC Barcelona",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2012.0
+            },
+            "physical": {
+                "height": 17358,
+                "weight": 69152
+            },
+            "attributes": {
+                "overall": 90,
+                "speed": {
+                    "acceleration": 81,
+                    "sprint_speed": 82,
+                    "agility": 90
+                },
+                "shooting": {
+                    "finishing": 91,
+                    "shot_power": 86,
+                    "long_shots": 89,
+                    "volleys": 90,
+                    "penalties": 89
+                },
+                "passing": {
+                    "short_passing": 91,
+                    "long_passing": 90,
+                    "vision": 91,
+                    "crossing": 88,
+                    "free_kick_accuracy": 89,
+                    "curve": 89
+                },
+                "dribbling": {
+                    "dribbling": 90,
+                    "balance": 89,
+                    "ball_control": 92,
+                    "composure": 92
+                },
+                "defending": {
+                    "defense": 72,
+                    "interceptions": 78,
+                    "heading_accuracy": 74,
+                    "defensive_awareness": 60,
+                    "standing_tackle": 81,
+                    "sliding_tackle": 64
+                },
+                "physicality": {
+                    "jumping": 84,
+                    "stamina": 85,
+                    "strength": 78,
+                    "aggression": 70
+                },
+                "weak_foot": 5,
+                "skill_moves": 5,
+                "preferred_foot": "Left"
+            },
+            "play_style": [
+                "First Touch+",
+                "Finesse Shot",
+                "Flair",
+                "Incisive Pass",
+                "Pinged Pass",
+                "Technical",
+                "Tiki Taka"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf5099",
+            "player": {
+                "name": "Mapi Le\u00f3n",
+                "rank": 19,
+                "age": 29,
+                "position": "CB",
+                "team": "FC Barcelona",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2013.0
+            },
+            "physical": {
+                "height": 17057,
+                "weight": 58128
+            },
+            "attributes": {
+                "overall": 89,
+                "speed": {
+                    "acceleration": 73,
+                    "sprint_speed": 77,
+                    "agility": 73
+                },
+                "shooting": {
+                    "finishing": 63,
+                    "shot_power": 89,
+                    "long_shots": 87,
+                    "volleys": 49,
+                    "penalties": 64
+                },
+                "passing": {
+                    "short_passing": 88,
+                    "long_passing": 90,
+                    "vision": 62,
+                    "crossing": 86,
+                    "free_kick_accuracy": 88,
+                    "curve": 87
+                },
+                "dribbling": {
+                    "dribbling": 68,
+                    "balance": 86,
+                    "ball_control": 82,
+                    "composure": 91
+                },
+                "defending": {
+                    "defense": 90,
+                    "interceptions": 90,
+                    "heading_accuracy": 83,
+                    "defensive_awareness": 91,
+                    "standing_tackle": 91,
+                    "sliding_tackle": 89
+                },
+                "physicality": {
+                    "jumping": 88,
+                    "stamina": 75,
+                    "strength": 85,
+                    "aggression": 84
+                },
+                "weak_foot": 3,
+                "skill_moves": 2,
+                "preferred_foot": "Left"
+            },
+            "play_style": [
+                "Intercept+",
+                "Anticipate",
+                "Block",
+                "Jockey",
+                "Long Ball Pass",
+                "Slide Tackle"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf509d",
+            "player": {
+                "name": "Patri Guijarro",
+                "rank": 31,
+                "age": 26,
+                "position": "CDM",
+                "team": "FC Barcelona",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2016.0
+            },
+            "physical": {
+                "height": 17157,
+                "weight": 74163
+            },
+            "attributes": {
+                "overall": 88,
+                "speed": {
+                    "acceleration": 78,
+                    "sprint_speed": 78,
+                    "agility": 82
+                },
+                "shooting": {
+                    "finishing": 80,
+                    "shot_power": 89,
+                    "long_shots": 91,
+                    "volleys": 58,
+                    "penalties": 70
+                },
+                "passing": {
+                    "short_passing": 90,
+                    "long_passing": 93,
+                    "vision": 83,
+                    "crossing": 69,
+                    "free_kick_accuracy": 66,
+                    "curve": 75
+                },
+                "dribbling": {
+                    "dribbling": 86,
+                    "balance": 87,
+                    "ball_control": 90,
+                    "composure": 84
+                },
+                "defending": {
+                    "defense": 85,
+                    "interceptions": 83,
+                    "heading_accuracy": 84,
+                    "defensive_awareness": 86,
+                    "standing_tackle": 87,
+                    "sliding_tackle": 85
+                },
+                "physicality": {
+                    "jumping": 87,
+                    "stamina": 78,
+                    "strength": 77,
+                    "aggression": 71
+                },
+                "weak_foot": 4,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Long Ball Pass+",
+                "Finesse Shot",
+                "First Touch",
+                "Flair",
+                "Incisive Pass",
+                "Press Proven",
+                "Tiki Taka"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50a1",
+            "player": {
+                "name": "Irene Paredes",
+                "rank": 39,
+                "age": 33,
+                "position": "CB",
+                "team": "FC Barcelona",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2009.0
+            },
+            "physical": {
+                "height": 178510,
+                "weight": 67148
+            },
+            "attributes": {
+                "overall": 88,
+                "speed": {
+                    "acceleration": 69,
+                    "sprint_speed": 72,
+                    "agility": 66
+                },
+                "shooting": {
+                    "finishing": 51,
+                    "shot_power": 60,
+                    "long_shots": 41,
+                    "volleys": 60,
+                    "penalties": 51
+                },
+                "passing": {
+                    "short_passing": 85,
+                    "long_passing": 68,
+                    "vision": 51,
+                    "crossing": 59,
+                    "free_kick_accuracy": 40,
+                    "curve": 69
+                },
+                "dribbling": {
+                    "dribbling": 57,
+                    "balance": 65,
+                    "ball_control": 80,
+                    "composure": 80
+                },
+                "defending": {
+                    "defense": 89,
+                    "interceptions": 89,
+                    "heading_accuracy": 85,
+                    "defensive_awareness": 92,
+                    "standing_tackle": 87,
+                    "sliding_tackle": 88
+                },
+                "physicality": {
+                    "jumping": 82,
+                    "stamina": 72,
+                    "strength": 88,
+                    "aggression": 87
+                },
+                "weak_foot": 3,
+                "skill_moves": 2,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Slide Tackle+",
+                "Aerial",
+                "Bruiser",
+                "Jockey",
+                "Power Header"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50b6",
+            "player": {
+                "name": "Ona Batlle",
+                "rank": 101,
+                "age": 25,
+                "position": "LB",
+                "team": "FC Barcelona",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2017.0
+            },
+            "physical": {
+                "height": 16053,
+                "weight": 51112
+            },
+            "attributes": {
+                "overall": 85,
+                "speed": {
+                    "acceleration": 82,
+                    "sprint_speed": 78,
+                    "agility": 82
+                },
+                "shooting": {
+                    "finishing": 51,
+                    "shot_power": 53,
+                    "long_shots": 40,
+                    "volleys": 46,
+                    "penalties": 47
+                },
+                "passing": {
+                    "short_passing": 85,
+                    "long_passing": 77,
+                    "vision": 71,
+                    "crossing": 85,
+                    "free_kick_accuracy": 40,
+                    "curve": 77
+                },
+                "dribbling": {
+                    "dribbling": 80,
+                    "balance": 85,
+                    "ball_control": 78,
+                    "composure": 82
+                },
+                "defending": {
+                    "defense": 80,
+                    "interceptions": 81,
+                    "heading_accuracy": 52,
+                    "defensive_awareness": 84,
+                    "standing_tackle": 84,
+                    "sliding_tackle": 82
+                },
+                "physicality": {
+                    "jumping": 70,
+                    "stamina": 90,
+                    "strength": 62,
+                    "aggression": 72
+                },
+                "weak_foot": 4,
+                "skill_moves": 3,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Anticipate",
+                "Jockey",
+                "Quick Step",
+                "Rapid",
+                "Relentless",
+                "Whipped Pass"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50d0",
+            "player": {
+                "name": "Mariona",
+                "rank": 149,
+                "age": 28,
+                "position": "LW",
+                "team": "Arsenal",
+                "nation": "Spain",
+                "league": "Barclays WSL",
+                "start_year": 2014.0
+            },
+            "physical": {
+                "height": 16655,
+                "weight": 64141
+            },
+            "attributes": {
+                "overall": 84,
+                "speed": {
+                    "acceleration": 78,
+                    "sprint_speed": 76,
+                    "agility": 85
+                },
+                "shooting": {
+                    "finishing": 89,
+                    "shot_power": 75,
+                    "long_shots": 87,
+                    "volleys": 56,
+                    "penalties": 87
+                },
+                "passing": {
+                    "short_passing": 88,
+                    "long_passing": 80,
+                    "vision": 84,
+                    "crossing": 84,
+                    "free_kick_accuracy": 72,
+                    "curve": 75
+                },
+                "dribbling": {
+                    "dribbling": 85,
+                    "balance": 93,
+                    "ball_control": 85,
+                    "composure": 84
+                },
+                "defending": {
+                    "defense": 57,
+                    "interceptions": 41,
+                    "heading_accuracy": 61,
+                    "defensive_awareness": 57,
+                    "standing_tackle": 65,
+                    "sliding_tackle": 61
+                },
+                "physicality": {
+                    "jumping": 71,
+                    "stamina": 91,
+                    "strength": 75,
+                    "aggression": 65
+                },
+                "weak_foot": 4,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Tiki Taka+",
+                "First Touch",
+                "Flair",
+                "Incisive Pass",
+                "Relentless",
+                "Technical",
+                "Trivela"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50e5",
+            "player": {
+                "name": "Alba Redondo",
+                "rank": 149,
+                "age": 28,
+                "position": "ST",
+                "team": "Real Madrid CF",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2014.0
+            },
+            "physical": {
+                "height": 16957,
+                "weight": 61134
+            },
+            "attributes": {
+                "overall": 84,
+                "speed": {
+                    "acceleration": 86,
+                    "sprint_speed": 83,
+                    "agility": 84
+                },
+                "shooting": {
+                    "finishing": 87,
+                    "shot_power": 85,
+                    "long_shots": 82,
+                    "volleys": 80,
+                    "penalties": 74
+                },
+                "passing": {
+                    "short_passing": 81,
+                    "long_passing": 64,
+                    "vision": 66,
+                    "crossing": 65,
+                    "free_kick_accuracy": 59,
+                    "curve": 59
+                },
+                "dribbling": {
+                    "dribbling": 84,
+                    "balance": 76,
+                    "ball_control": 85,
+                    "composure": 75
+                },
+                "defending": {
+                    "defense": 26,
+                    "interceptions": 21,
+                    "heading_accuracy": 82,
+                    "defensive_awareness": 16,
+                    "standing_tackle": 23,
+                    "sliding_tackle": 18
+                },
+                "physicality": {
+                    "jumping": 87,
+                    "stamina": 75,
+                    "strength": 67,
+                    "aggression": 37
+                },
+                "weak_foot": 3,
+                "skill_moves": 4,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Aerial",
+                "Finesse Shot",
+                "First Touch",
+                "Quick Step",
+                "Relentless",
+                "Technical"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50f1",
+            "player": {
+                "name": "Olga Carmona",
+                "rank": 222,
+                "age": 24,
+                "position": "LB",
+                "team": "Real Madrid CF",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2018.0
+            },
+            "physical": {
+                "height": 16053,
+                "weight": 51112
+            },
+            "attributes": {
+                "overall": 83,
+                "speed": {
+                    "acceleration": 89,
+                    "sprint_speed": 89,
+                    "agility": 85
+                },
+                "shooting": {
+                    "finishing": 74,
+                    "shot_power": 75,
+                    "long_shots": 77,
+                    "volleys": 45,
+                    "penalties": 85
+                },
+                "passing": {
+                    "short_passing": 81,
+                    "long_passing": 75,
+                    "vision": 69,
+                    "crossing": 84,
+                    "free_kick_accuracy": 71,
+                    "curve": 74
+                },
+                "dribbling": {
+                    "dribbling": 75,
+                    "balance": 89,
+                    "ball_control": 82,
+                    "composure": 81
+                },
+                "defending": {
+                    "defense": 78,
+                    "interceptions": 80,
+                    "heading_accuracy": 68,
+                    "defensive_awareness": 81,
+                    "standing_tackle": 79,
+                    "sliding_tackle": 74
+                },
+                "physicality": {
+                    "jumping": 83,
+                    "stamina": 81,
+                    "strength": 72,
+                    "aggression": 65
+                },
+                "weak_foot": 3,
+                "skill_moves": 4,
+                "preferred_foot": "Left"
+            },
+            "play_style": [
+                "Intercept",
+                "Rapid",
+                "Relentless"
+            ]
+        },
+        {
+            "_id": "6748a6f5c83b060c53cf50f4",
+            "player": {
+                "name": "Cata Coll",
+                "rank": 222,
+                "age": 23,
+                "position": "GK",
+                "team": "FC Barcelona",
+                "nation": "Spain",
+                "league": "Liga F",
+                "start_year": 2019.0
+            },
+            "physical": {
+                "height": 17057,
+                "weight": 68150
+            },
+            "attributes": {
+                "overall": 83,
+                "speed": {
+                    "acceleration": 53,
+                    "sprint_speed": 54,
+                    "agility": 50
+                },
+                "shooting": {
+                    "finishing": 8,
+                    "shot_power": 56,
+                    "long_shots": 5,
+                    "volleys": 7,
+                    "penalties": 28
+                },
+                "passing": {
+                    "short_passing": 49,
+                    "long_passing": 35,
+                    "vision": 61,
+                    "crossing": 9,
+                    "free_kick_accuracy": 21,
+                    "curve": 15
+                },
+                "dribbling": {
+                    "dribbling": 9,
+                    "balance": 66,
+                    "ball_control": 34,
+                    "composure": 50
+                },
+                "defending": {
+                    "defense": 53,
+                    "interceptions": 14,
+                    "heading_accuracy": 7,
+                    "defensive_awareness": 9,
+                    "standing_tackle": 12,
+                    "sliding_tackle": 14
+                },
+                "physicality": {
+                    "jumping": 67,
+                    "stamina": 30,
+                    "strength": 65,
+                    "aggression": 20
+                },
+                "weak_foot": 3,
+                "skill_moves": 1,
+                "preferred_foot": "Right"
+            },
+            "play_style": [
+                "Cross Claimer"
+            ]
+        }
+    ]
+}
