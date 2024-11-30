@@ -25,7 +25,7 @@ resultado_1 = []
 for jugadora in consulta_1:
     resultado_1.append(jugadora)
 end_time = time.time()  
-print(f"Tiempo consulta 1 (jugadoras iniciaron después de 2020): {end_time - start_time:.4f} segundos")
+print(f"Timepo consulta 1 (jugadoras iniciaron después de 2020): {end_time - start_time:.4f} segundos")
 
 # ----- CONSULTA 2 : Jugadora cuyo equipo empieza con "Manchester" ----
 start_time = time.time()  
@@ -54,11 +54,12 @@ for jugadora in consulta_3:
 end_time = time.time()  #captura timepo fin
 print(f"Tiempo consulta 3 (jugadoras de España): {end_time - start_time:.4f} segundos")
 
-# Crear el archivo JSON 
+
+ 
 respuestas = {
-    "jugadoras_iniciaron_tras_2020": resultado_1,
+    "jugadoras_iniciaron_mayor_2020": resultado_1,
     "jugadoras_manchester": resultado_2,
-    "jugadoras_de_spain": resultado_3
+    "jugadoras_spain": resultado_3
 }
 
 # Guardar los resultados 

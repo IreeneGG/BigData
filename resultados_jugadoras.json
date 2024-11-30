@@ -1,5 +1,5 @@
 {
-    "jugadoras_iniciaron_tras_2020": [
+    "jugadoras_iniciaron_mayor_2020": [
         {
             "_id": "6748a6f5c83b060c53cf50f6",
             "player": {
@@ -763,7 +763,7 @@
             ]
         }
     ],
-    "jugadoras_de_spain": [
+    "jugadoras_spain": [
         {
             "_id": "6748a6f5c83b060c53cf5093",
             "player": {
